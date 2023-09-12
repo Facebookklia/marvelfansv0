@@ -1,0 +1,9 @@
+/* স্টাইল যেগুলি দুটি বটম এপ্লাই করবে */
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
